@@ -1,4 +1,4 @@
-# runtimeAnalysis
+# Runtime Analysis
  Power Function: Iterative Vs. Recursive
 
 ![Research Artile 1](Images/RuntimeAnalysis-IterativeVsRecursivePowerFunction-1.jpg)
